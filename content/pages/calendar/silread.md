@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Calendar
+parent_type: CourseSection
 parent_uid: 3d177762-643a-db9f-23b0-59e903890720
 title: Silent Reading Session
 uid: 667b2022-1fc9-6ebf-8ac5-f62c399f6fd0

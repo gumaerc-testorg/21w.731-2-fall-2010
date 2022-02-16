@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1442702f-2c27-6bcf-afd9-8d3a29cb5a6c
 title: Writing and Reading Profile
 uid: 9d1cefcf-8ced-cb35-8c06-1a8782e91989

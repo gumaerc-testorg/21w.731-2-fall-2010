@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1442702f-2c27-6bcf-afd9-8d3a29cb5a6c
 title: Open Topic Essay
 uid: a1d41c38-4acb-d47d-e205-91468620b5a6

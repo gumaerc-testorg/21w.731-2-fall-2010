@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1442702f-2c27-6bcf-afd9-8d3a29cb5a6c
 title: Investigative Essay
 uid: e9dc1691-7c1e-abe1-1f48-c347de852b3a

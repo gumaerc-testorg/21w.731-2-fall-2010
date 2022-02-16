@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 1442702f-2c27-6bcf-afd9-8d3a29cb5a6c
 title: '"Where I Come From" Piece'
 uid: 842e03df-b232-de8d-6bec-4e250bca0bcb

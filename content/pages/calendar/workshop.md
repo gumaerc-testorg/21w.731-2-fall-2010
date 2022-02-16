@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Calendar
+parent_type: CourseSection
 parent_uid: 3d177762-643a-db9f-23b0-59e903890720
 title: The Writing Workshop
 uid: 1370c127-cbb2-d603-d988-d81cc09a92ae
