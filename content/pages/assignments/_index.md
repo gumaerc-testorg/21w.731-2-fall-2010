@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the six essay assignments of the
+  course along with general guidance for submitting papers.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -9,15 +11,15 @@ uid: 1442702f-2c27-6bcf-afd9-8d3a29cb5a6c
 
 Throughout this course, you will complete six essay assignments. Use the links below to get information on each essay assignment.
 
-[Writing and Reading Profile]({{< baseurl >}}/pages/assignments/wriprof)
+{{% resource_link 9d1cefcf-8ced-cb35-8c06-1a8782e91989 "Writing and Reading Profile" %}}
 
-["Where I Come From" Piece]({{< baseurl >}}/pages/assignments/wicf)
+{{% resource_link 842e03df-b232-de8d-6bec-4e250bca0bcb "\"Where I Come From\" Piece" %}}
 
-[Literacy Narrative Essay]({{< baseurl >}}/pages/assignments/litnar)
+{{% resource_link ea76c69c-f262-5b00-3697-527b5c383523 "Literacy Narrative Essay" %}}
 
-[Open Topic Essay]({{< baseurl >}}/pages/assignments/openess)
+{{% resource_link a1d41c38-4acb-d47d-e205-91468620b5a6 "Open Topic Essay" %}}
 
-[Investigative Essay]({{< baseurl >}}/pages/assignments/invess) (You will write two drafts of this essay.)
+{{% resource_link e9dc1691-7c1e-abe1-1f48-c347de852b3a "Investigative Essay" %}} (You will write two drafts of this essay.)
 
 General Guidance
 ----------------

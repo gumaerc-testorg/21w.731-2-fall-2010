@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics and assignment
+  due dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -125,7 +127,7 @@ Shirley Geok-Lin Lim, "Two Lives"; Natalia Ginzburg, "He and I"; Kate Chopin, "T
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Workshop of essays submitted in SES #6. ([Handout: The Writing Workshop]({{< baseurl >}}/pages/calendar/workshop)).
+Workshop of essays submitted in SES #6. ({{% resource_link 1370c127-cbb2-d603-d988-d81cc09a92ae "Handout: The Writing Workshop" %}}).
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -291,7 +293,7 @@ Short film, "Passing," by Kym Ragusa (in class); John Edgar Wideman, "The Night 
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Silent reading session. ([Handout: Silent Reading Session]({{< baseurl >}}/pages/calendar/silread)).
+Silent reading session. ({{% resource_link 667b2022-1fc9-6ebf-8ac5-f62c399f6fd0 "Handout: Silent Reading Session" %}}).
 {{< tdclose >}}
 {{< tdopen >}}
  

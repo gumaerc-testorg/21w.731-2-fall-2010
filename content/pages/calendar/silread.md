@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines and procedure for the Silent Reading
+  Session of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Calendar

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of required and suggested readings for
+  this course as well as guidance for the Reading Responses.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

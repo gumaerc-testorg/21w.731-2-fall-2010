@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section presents information on the writing workshop of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Calendar
