@@ -41,7 +41,7 @@ READINGS
 {{< tdopen >}}
 
 
-Berger, Joseph. "[An Undocumented Princetonian](http://www.nytimes.com/2010/01/03/education/edlife/03alien-t.html?pagewanted=all)." _New York Times_, December 29, 2009.
+Berger, Joseph. "{{% resource_link "063c6846-f022-4e8b-a9fb-e27e099297ca" "An Undocumented Princetonian" %}}." _New York Times_, December 29, 2009.
 
 Tan, Amy. "Mother Tongue." In _Across Cultures: A Reader for Writers_. 7th ed. Edited by Sheena Gillespie and Robert Becker. Pearson/Longman Publishers, 2009. ISBN: 9780321475299.
 
@@ -182,7 +182,7 @@ Bambara, Toni. "The Lesson" and Lorde, Audre. "The Fourth of July." In _Across C
 
 Patterson, Orlando. "Jean, O. J. and the Jailing of Black America." In _Best African American Essays: 2009_. Edited by Gerald Early and Debra Dickerson. New York: Bantam Books, 2009, pp. 233-36. ISBN: 9780553385366.
 
-Touré. "[Do Not Pass](http://www.nytimes.com/2010/02/21/books/review/Toure-t.html)." _New York Times_, February 16, 2010, Sunday Book Review.
+Touré. "{{% resource_link "bbb69f96-3ff1-4373-b783-30d7cc474cf7" "Do Not Pass" %}}." _New York Times_, February 16, 2010, Sunday Book Review.
 
 In \[Across Cultures\]:  
 Wildeman, John. "The Night I Was Nobody."
